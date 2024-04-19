@@ -12,6 +12,8 @@ The application is simplified and deliberately contains bugs.
 
 Clone the repository and execute Maven to build the application:
 
+MASODIK SZERKESZTES!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
 ```
 mvn compile
 ```
